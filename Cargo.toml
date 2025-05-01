@@ -1,0 +1,9 @@
+[package]
+name = "xcrypt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+aes = "0.8.4"
+ascii_converter = "0.3.0"
+rfd = "0.15.2"
